@@ -3,7 +3,7 @@ name = "ear-desktop"
 version = "0.1.0"
 edition = "2024"
 description = "Native desktop control panel for Nothing / CMF audio devices (port of ear-web)"
-license = "GPL-3.0-or-later"
+license = "AGPL-3.0-only"
 
 [dependencies]
 eframe = { version = "0.37", default-features = false, features = ["glow", "default_fonts"] }

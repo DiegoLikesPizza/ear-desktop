@@ -84,6 +84,6 @@ src/
 
 ## Legal
 
-GPL-3.0, like ear-web. This app is not affiliated with, sponsored by, or endorsed by
+AGPL-3.0, the same license as ear-web (see `LICENSE`). This app is not affiliated with, sponsored by, or endorsed by
 Nothing Technology Limited. Product images, the Ndot font and the device configuration
 data come from the ear-web project and remain the property of their owners.
